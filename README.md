@@ -1,4 +1,4 @@
-<h3 align="left">Hi👋, my my name is Victor .N and i am a    Data Analyst and a frontend dev</h3>
+<h3 align="left">Hey!👋, Welcome to my portfolio</h3>
 
 ###
 
@@ -20,6 +20,63 @@
 </div>
 
 ###
+
+# 👋 About Me
+
+Hi, I'm **Nkansi Victor** — an aspiring **Data Analyst** and passionate **Frontend Developer**. I love turning data into insights and ideas into interactive digital experiences. My journey is driven by curiosity, continuous learning, and a desire to solve real-world problems using data and code.
+
+---
+
+# 🎯 Mission
+
+To bridge the gap between data and decision-making by building insightful dashboards, writing clean code, and creating user-focused web applications that make an impact.
+
+---
+
+# 🛠️ Skills
+
+- 📊 **Data Analysis**: Exploratory Data Analysis, Data Visualization, SQL Queries
+- 💻 **Frontend Development**: HTML, CSS, JavaScript, React.js
+- 📈 **Analytical Thinking**: Problem-solving, Data storytelling, Business Intelligence
+- 📚 **Learning**: Constantly improving with a growth mindset
+
+---
+
+# 🧰 Tools & Technologies
+
+- **Languages**: Html, JavaScript, 
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Frontend**: React, Tailwind CSS, Bootstrap  
+- **Data Tools**: Excel, Power BI, 
+- **Others**: Git, GitHub, VS Code, Figma
+
+---
+
+# 📂 Projects
+
+Here are some of the projects I've worked on:
+
+- **[Data Dashboard](#)** – Interactive dashboard analyzing sales trends using Power BI
+- **[Weather App](#)** – Frontend app using React and OpenWeather API
+- **[Customer Churn Analysis](#)** – Data-driven insights using Python & visualization
+- **[Portfolio Website](#)** – Personal site showcasing my skills and projects
+
+> 👉 _More coming soon..._
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaboration, learning, and new opportunities.
+
+- 💼 [LinkedIn](#)  
+- 💻 [Portfolio Website](#)  
+- 📧 Email: _your.email@example.com_
+
+---
+
+🚀 **Let’s build something amazing together!**
+
 <!--
 **Viknkansi/Viknkansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
